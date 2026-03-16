@@ -1,0 +1,12 @@
+Total Events: 2,755,641
+Unique Users: 1,407,580
+Unique Products: 235,061
+Total Sessions: 1,761,675
+Views: 2,664,218
+Cart Adds: 68,966
+Purchases: 22,457
+View→Purchase Rate: 0.843%
+Data Sparsity: 100.00%
+Avg Events/User: 1.96
+Avg Events/Session: 1.56
+Time Span: 137 days
